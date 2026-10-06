@@ -1,4 +1,4 @@
-# Lab 1 - git
+# Lab 1 - git.
 Jedo zdanie opisu pliku readme
 
 Drugie zdanie w pliku readme
